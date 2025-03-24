@@ -1,0 +1,24 @@
+Every 1.0s: curl -s  | jq '.message' … Haneuls-MacBook-Pro.local: 22:14:47
+                                                             in 0.029s (0)
+curl: (2) no URL specified                                                
+curl: try 'curl --help' for more information                              
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
+                                                                          
